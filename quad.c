@@ -25,3 +25,18 @@ else
     printf("The roots are imaginary\nThe roots are %f+%fi and %f-%fi",re,im,re,im);
 }
 }
+
+Output 1 :
+Enter the coefficients of the quadratic equation : 1 -2 1
+The roots are real and equal
+The roots are 1 and 1
+    
+Output 2 :
+Enter the coefficients of the quadratic equation : 1 7 12
+The roots are real and distinct
+The roots are -3 and -4
+    
+Output 3 :
+Enter the coefficients of the quadratic equation : 1 1 1
+The roots are imaginary
+The roots are -0.500000+0.866025i and -0.500000-0.866025i
